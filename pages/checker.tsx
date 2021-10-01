@@ -95,7 +95,7 @@ const ResultChecker = () => {
           <div className="mt-5 w-full">
             <form className="space-y-8" onSubmit={handleSubmit}>
               <Input
-                placeholder="JAMB Reg. No./Email"
+                placeholder="Registration No."
                 showLabel
                 name="jambOrEmail"
                 labelValue="Registration No."
