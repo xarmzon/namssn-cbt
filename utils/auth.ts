@@ -44,7 +44,7 @@ export const validateRegForm = (formData: IRegUser): IDataError[] => {
 };
 
 export const validJAMB = (jambN: string): boolean => {
-  return /^\w{5,}$/.test(jambN); ///^\d{8}[a-zA-Z]{2}$/.test(jambN);
+  return true///^\w{5,}$/.test(jambN); ///^\d{8}[a-zA-Z]{2}$/.test(jambN);
 };
 
 export const validPhoneNumber = (phone: string): boolean => {
