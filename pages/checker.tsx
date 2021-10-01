@@ -80,7 +80,7 @@ const ResultChecker = () => {
     <>
       <NextSeo title="Results Checker" />
       <div className="bg-book bg-no-repeat bg-cover bg-primary bg-blend-multiply backdrop-filter backdrop-blur-[3px] flex flex-col items-center justify-center min-h-screen p-5">
-	  <Logo size="large" />
+        <Logo size="large" />
         <div className="text-primary space-y-4 w-full max-w-lg min-h-[300px] bg-gray-50 bg-opacity-95 backdrop-filter backdrop-blur-sm p-5 rounded-md">
           <h1 className="text-center text-primary text-xl font-bold pt-3 mb-2">
             Check My Results
@@ -98,7 +98,7 @@ const ResultChecker = () => {
                 placeholder="JAMB Reg. No./Email"
                 showLabel
                 name="jambOrEmail"
-                labelValue="JAMB Reg. No./Email"
+                labelValue="Registration No."
                 value={jambOrEmail.value}
                 onChange={(e) =>
                   setJambOrEmail((prev) => ({
