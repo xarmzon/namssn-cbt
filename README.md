@@ -1,4 +1,4 @@
-# MSSN UNILORIN CHAPTER MOCK EXAMINATION CBT(Computer Base Test WebApp)
+# NAMMSSN UNILORIN CHAPTER MOCK EXAMINATION CBT(Computer Base Test WebApp)
 
 ## Designed and Crafted By
 
