@@ -16,9 +16,9 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: "#19512c",
-        "primary-light-50": "#ECFDF5",
-        "primary-light-100": "#D1FAE5",
+        primary: "#ED393A",
+        "primary-light-50": "#FACDCD",
+        "primary-light-100": "#F09393",
         "primary-deep": "#064E3B",
         color1: "#0a0d46",
         secondary: colors.coolGray["700"],
